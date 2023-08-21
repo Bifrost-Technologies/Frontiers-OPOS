@@ -1,7 +1,6 @@
 ![frontiers-splash-dark](https://github.com/Bifrost-Technologies/Frontiers-OPOS/assets/24855008/1c213499-6b47-492b-80c2-3b0e52296326)
 
-Frontiers is a fully on-chain PvP kingdom-building RTS game
-Developed with Unreal engine 5 during the OPOS hackathon.
+Frontiers is a fully on-chain PvP kingdom-building RTS game. Developed with Unreal engine 5 during the OPOS hackathon.
 
 Players can choose between 3 factions.; Orcs, Lizards, & Fishmen.
 Players must collect resources and build their kingdom to prepare for war.

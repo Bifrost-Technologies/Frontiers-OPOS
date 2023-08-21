@@ -15,6 +15,10 @@ The on-chain OPOS alpha release caps players at level 10 giving them the ability
 
 [Frontiers GameClient SDK](https://github.com/Bifrost-Technologies/Frontier-SDK) - C# Unreal SDK for Frontiers on the Solana blockchain. The kit consists of wrapper for the frontiers rust program and additional modules like the airlock wallet, transaction railgun/sequencer, data protection shield and Unreal Engine framework.
 
+### Project Team
+[Kyle Gilliam](https://github.com/kgilliam125)
+
+[Nathan Martell](https://github.com/BifrostTitan)
 
 ## How to play & test
 
